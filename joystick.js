@@ -1,3 +1,7 @@
+/*
+ * Pulled from https://github.com/JayBeavers/node-joystick
+ */
+
 var fs = require('fs');
 var events = require('events');
 var util = require('util');
